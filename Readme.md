@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Niko Emotion](https://up.htmlacademy.ru/htmlcss/23/user/83444).
+* Студент: [Vitalii Borodulin](https://htmlacademy.ru/profile/id622831).
 
 ---
 
