@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Vitalii Borodulin](https://htmlacademy.ru/profile/id622831).
+* Студент: [Бородулин Виталий](https://htmlacademy.ru/profile/id622831).
 
 ---
 
